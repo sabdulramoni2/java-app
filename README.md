@@ -4,5 +4,4 @@ Added dependencies
 Run the application
 
 
-
-![image](https://github.com/sabdulramoni2/java-app/assets/144086740/b422dfeb-f5d6-4dd8-a9ac-ea43ed540c7b)
+![image](https://github.com/sabdulramoni2/java-app/assets/144086740/0a606318-0571-49c9-8af8-6eda24cc7b32)
